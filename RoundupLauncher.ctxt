@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=defaultRdr\ inFile
+comment0.target=java.io.InputStreamReader\ parseInFile(java.io.InputStreamReader,\ java.lang.String)
+comment0.text=\r\n\ Helps\ parse\ in\ file.\r\n\ @param\ defaultRdr\ original\ Reader\ to\ be\ used\r\n\ @param\ inFile\ the\ name\ of\ the\ file\ to\ be\ read\ in\ \r\n\ @return\ the\ reader\ if\ it\ was\ succesfully\ made\r\n
+comment1.params=defaultWtr\ outFile
+comment1.target=java.io.OutputStreamWriter\ parseOutFile(java.io.OutputStreamWriter,\ java.lang.String)
+comment1.text=\r\n\ Helper\ method\ to\ parse\ outfiles.\r\n\ @param\ defaultWtr\ the\ default\ writer\ to\ write\ to\r\n\ @param\ outfile\ the\ name\ of\ the\ file\ to\ write\ to\r\n\ @return\ the\ new\ writer\ for\ that\ file\r\n
+comment2.params=cmdParser\ fileInOption\ fileOutOption
+comment2.target=void\ runConsoleFlag(jargs.gnu.CmdLineParser,\ jargs.gnu.CmdLineParser.Option,\ jargs.gnu.CmdLineParser.Option)
+comment2.text=\r\n\ Helper\ method\ to\ help\ run\ console\ flag.\r\n\ @param\ CmdLineParser\ cmdParser\r\n\ @param\ fileInOption\ the\ file\ in\ input\r\n\ @param\ fileOutOption\ the\ file\ out\ output\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\ \r\n\ \ \ \ /**\r\n\ The\ main\ function.\r\n\ Parse\ the\ arguments\ and\ functions\ accordingly.\ \r\n\ @param\ args\ The\ arguments\ passed\ in.\ Console\ vs\ gui.\ \r\n
+numComments=4

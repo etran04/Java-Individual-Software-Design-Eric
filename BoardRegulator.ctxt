@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BoardRegulator()
+comment0.text=\r\n\ Default\ constructor\ for\ the\ BoardRegualtor\ class.\r\n
+comment1.params=boardNumber
+comment1.target=void\ setBoard(int)
+comment1.text=\r\n\ Changes\ the\ currentboard\ to\ a\ specific\ board\ number.\r\n\ @param\ boardNumber\ Board\ number\ to\ be\ set\ to\r\n
+comment2.params=
+comment2.target=java.lang.String\ getBoard()
+comment2.text=\r\n\ Gets\ the\ currentBoard\ configuration\ that\ is\ currently\ used.\ \r\n\ @return\ the\ string\ representing\ this\ board\r\n
+comment3.params=
+comment3.target=int\ getBoardNumber()
+comment3.text=\r\n\ Gets\ the\ currentBoard\ configuration's\ number\ that\ is\ currently\ used.\ \r\n\ @return\ the\ current\ board\ number\r\n
+comment4.params=
+comment4.target=void\ nextBoard()
+comment4.text=\r\n\ Increments\ the\ currentBoard\ by\ 1.\r\n\ If\ board\ 18,\ loops\ back\ to\ loop\ 1.\r\n
+comment5.params=board
+comment5.target=void\ setCustom(java.lang.String)
+comment5.text=\r\n\ Sets\ the\ board\ to\ the\ custom\ board\ 0.\ \r\n\ @param\ board\ the\ custom\ board\ being\ set\r\n
+comment6.params=
+comment6.target=java.lang.String\ getBoardDifficulty()
+comment6.text=\r\n\ Gets\ the\ currentBoard's\ difficulty\ level.\ \r\n\ @return\ string\ that\ represents\ the\ difficulty\ of\ current\ board\r\n
+numComments=7

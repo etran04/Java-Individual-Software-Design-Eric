@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PreferencesDialog()
+comment0.text=\r\n\ Default\ constructor\ of\ the\ dialog.\ \r\n
+comment1.params=
+comment1.target=java.lang.String\ getResponse()
+comment1.text=\r\n\ Makes\ the\ dialog\ visible\ and\ prompts\ the\ user\ for\ a\ choice.\r\n\ @return\ string\ representing\ the\ preference\r\n
+numComments=2
